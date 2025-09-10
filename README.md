@@ -19,7 +19,7 @@ With a **modern UI** and **visualization features**, it transforms raw API respo
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=API+Explorer+Demo" alt="API Explorer Screenshot" width="80%">
+  <img src="Snapchat-1318364187.jpg" alt="API Explorer Screenshot" width="80%">
 </div>
 
 ---
